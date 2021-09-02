@@ -21,7 +21,6 @@ std::array<int, 8> neighbors = { -11, -10, -9, -1, 1, 9, 10, 11 };
 int main()
 {
     int cell;
-    int parsed_cell;
     bool constraint = true;
 
     std::cout << "  0 1 2 3 4 5 6 7 8 9\n";
